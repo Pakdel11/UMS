@@ -1,0 +1,11 @@
+@import './partial/home.css';
+@import './partial/dashboard.css';
+@import './partial/login.css';
+@import './partial/header.css';
+
+
+
+
+body{
+    background: red;
+}
